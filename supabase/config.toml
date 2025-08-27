@@ -1,4 +1,1 @@
 project_id = "ewacimboqwsmzwvkazsv"
-
-[functions.summarize-note]
-verify_jwt = true
